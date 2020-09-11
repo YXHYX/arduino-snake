@@ -2,10 +2,10 @@
 Snake game in arduino using a TFT ILI9163C
 
 # Table of contents
-* [Introduction](## Introduction)
-* [Requirements](## Requirements)
-* [Wiring diagram](## Wiring)
-* [Contributing](## Contributing)
+* [Introduction](# Introduction)
+* [Requirements](# Requirements)
+* [Wiring diagram](# Wiring)
+* [Contributing](# Contributing)
 
 ## Introduction
 The snake game is a very popular game, and you must of heard of it. The game is simple, you are a snake that eats fruits to grow its length. if you touch your tail then the game is over. So i made it in arduino with a TFT ILI9163C, joystick and a buzzer.
