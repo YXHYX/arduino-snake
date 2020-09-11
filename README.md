@@ -27,25 +27,25 @@ You will also need some electronics:
 The wiring diagram is simple:
 
 ### ILI9163C
-VCC -> 5V
-GND -> GND
-DI -> pin 51
-SC(SCK) -> pin 52
-CS -> pin 53
-RST -> 3V3
-RS(DC) -> 9
-BLK(LED) -> 3V3
+VCC -> 5V.
+GND -> GND.
+DI -> pin 51.
+SC(SCK) -> pin 52.
+CS -> pin 53.
+RST -> 3V3.
+RS(DC) -> 9.
+BLK(LED) -> 3V3.
 
 ### Joystick
-VCC -> 5V
-GND -> GND
-VRX -> A1
-VRY -> A2
-SW -> 7
+VCC -> 5V.
+GND -> GND.
+VRX -> A1.
+VRY -> A2.
+SW -> 7.
 
 ### Buzzer
-GND -> GND
-Anode -> 6
+GND -> GND.
+Anode -> 6.
 
 ## Contributing
 If you want to discuss about something you would like to change contact me on my [discord server](https://discord.gg/HAGQFjr)
